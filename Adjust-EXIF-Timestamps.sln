@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adjust-EXIF-Timestamps", "Adjust EXIF Timestamps\Adjust-EXIF-Timestamps.csproj", "{BA3B0E5E-57E7-4555-94CD-5D5AF8D50809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3B0E5E-57E7-4555-94CD-5D5AF8D50809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3B0E5E-57E7-4555-94CD-5D5AF8D50809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3B0E5E-57E7-4555-94CD-5D5AF8D50809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3B0E5E-57E7-4555-94CD-5D5AF8D50809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
