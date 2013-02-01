@@ -23,4 +23,4 @@ Notes
 -----
 - Both `DateTimeOriginal` and `DateTimeDigitized` will be adjusted.
 - The pictures with corrected date & time are saved in a separate folder. The originals remain intact.
-- The time is in 24-hour format, NOT AM/PM.
+- The time is in 24-hour format.
